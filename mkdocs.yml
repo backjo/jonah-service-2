@@ -1,0 +1,8 @@
+site_name: jonah-service-2
+site_description: jonah-service
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

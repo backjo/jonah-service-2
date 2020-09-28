@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: jonah-service-2
+  description: jonah-service
+  annotations:
+    github.com/project-slug: backjo/jonah-service-2
+    backstage.io/techdocs-ref: github:https://github.com/backjo/jonah-service-2
+spec:
+  type: service
+  lifecycle: experimental
+  owner: backjo
